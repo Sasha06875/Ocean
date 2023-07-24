@@ -1,0 +1,34 @@
+body{
+    background-color:#FFE773;
+    font-family: monospace;
+    background: url(https://phonoteka.org/uploads/posts/2021-04/1619477790_7-phonoteka_org-p-goluboi-fon-dlya-akvariuma-7.jpg);
+    
+       
+    
+    
+}
+body p{
+    font-size: 17;
+    
+}
+h1{
+    text-align: center;
+    border: blue 4px dashed;
+}
+img{
+    border: red 4px double;
+    width: 700;
+    height: 450;
+    justify-content: center;
+    display: block;
+    margin: auto;
+}
+a{
+    color: black;
+}
+main p{
+    padding: 5px;
+    border: #FF7640	 2px dashed;
+    text-align: center;
+    box-shadow: 10px 5px 5px;
+}
