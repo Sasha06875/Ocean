@@ -1,0 +1,11 @@
+body{
+    background-color: yellow;
+    font-family: monospace;
+}
+body p{
+    font-size: 50;
+}
+h1{
+    text-align: center;
+    border: blue 4px dashed;
+}
