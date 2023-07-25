@@ -1,0 +1,45 @@
+body{
+    background-color: yellow;
+    font-family: monospace;
+     background: url(https://phonoteka.org/uploads/posts/2022-01/1642698129_17-phonoteka-org-p-fon-goluboi-sinii-17.jpg);
+}
+body p{
+    font-size: 30px;
+}
+h1{
+    text-align: center;
+    border: #081272	 3px dashed;
+}
+h2{
+    text-align: center;
+    border: blue 4px dashed;
+}
+h3{
+     text-align: center;
+    border: blue 4px dashed;
+}
+a{
+    color: black;
+}
+ul{
+    margin: 50px;
+    font-size: 27px;
+}
+main{
+    position: absolute;
+    justify-content: center;
+    width: 100%;
+
+}  
+img{
+    opacity: 0;
+    width: 50%;
+    height: 50%;
+}
+img:hover{
+    opacity: 1;
+    width: 75%;
+    height: 75%;
+    transition: all 5s linear;
+    
+} 
