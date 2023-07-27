@@ -8,6 +8,7 @@ body p{
 h1{
     text-align: center;
     border: blue 4px dashed;
+    box-shadow: 5px 5px;
 }
 img{
     border: red 4px double;
@@ -17,8 +18,7 @@ img{
     display: block;
     margin: auto;
      opacity: 0;
-    width: 50%;
-    height: 50%;
+    
 }
 img:hover{
     opacity: 1;
@@ -36,13 +36,3 @@ a{
 }
 main p{
     padding: 5px;
-    border: #FF7640	 2px dashed;
-    text-align: center;
-    box-shadow: 10px 5px 5px;
-}
-
-
-
-
-
-    
