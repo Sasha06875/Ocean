@@ -19,6 +19,10 @@ img{
 }
 a{
     color: black;
+     border: 3px orange solid;
+    text-decoration: none;
+    padding: 3px;
+    border-radius: 20%
 }
 main p{
     padding: 5px;
