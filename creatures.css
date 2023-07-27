@@ -16,6 +16,16 @@ img{
     justify-content: center;
     display: block;
     margin: auto;
+     opacity: 0;
+    width: 50%;
+    height: 50%;
+}
+img:hover{
+    opacity: 1;
+    width: 75%;
+    height: 75%;
+    transition: all 5s linear;
+    
 }
 a{
     color: black;
