@@ -1,4 +1,7 @@
- body{
+
+    
+    
+    body{
         background-color:#FFB840;
     font-family:monospace;
     }
@@ -10,12 +13,23 @@
         text-align: center;
         border: blue 4px dashed;
        }
-        img{
+    img{
         border: #235B79 3px double;
         width: 500;
         height: 300;
         display: block;
         margin: auto;
+         justify-content: center;
+       opacity: 0;
+       box-shadow: 5px 5px;
+       
+    
+}
+img:hover{
+    opacity: 1;
+    width: 75%;
+    height: 75%;
+    transition: all 5s linear;
        }
     a{
         color:black;
@@ -28,6 +42,11 @@
     }
     
     
+   
+    
+        
+        
+        
     
     
    
