@@ -1,0 +1,49 @@
+body{
+       background: url(sea-water-background.jpg);
+    font-family:monospace;
+    }
+     body p{
+        font-size: 30;
+   
+    }
+     h1{
+        text-align: center;
+        border: purple 4px dashed;
+        box-shadow: 5px 5px
+       }
+     h4{
+       text-align: center;
+       text-decoration: underline;
+       
+     }
+     
+   
+        img{
+        border: orange 3px double;
+        width: 500;
+        height: 300;
+       justify-content: center;
+        display: block;
+        margin: auto;
+       opacity: 0;
+       box-shadow: 5px 5px;
+       
+    
+}
+img:hover{
+    opacity: 1;
+    width: 75%;
+    height: 75%;
+    transition: all 5s linear;
+    
+        }
+       
+    a{
+        color:black;
+    }
+    main p{
+        padding: 5px;
+        border: #FF5D40 2px dashed;
+        text-align: center;
+        box-shadow: 10px 5px 5px #BF5938;
+    }
