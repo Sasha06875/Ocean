@@ -14,6 +14,8 @@
         border: #235B79 3px double;
         width: 500;
         height: 300;
+        display: block;
+        margin: auto;
        }
     a{
         color:black;
@@ -24,6 +26,8 @@
         text-align: center;
         box-shadow: 10px 5px 5px #BF5938; 
     }
+    
+    
     
     
    
