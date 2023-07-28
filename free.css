@@ -3,12 +3,20 @@ body{
     font-family: monospace;
 }
 body p{
-    font-size: 17;
+    font-size: 24;
 }
 h1{
     text-align: center;
     border: blue 4px dashed;
+    font-size: 35px;
 }
+
+h1:hover{
+    text-shadow: 5px  5px darkorange;
+    font-size: 50px;
+    transition: all 2s linear;
+}
+
 img{
     border: red 4px double;
     width: 700;
@@ -29,17 +37,12 @@ img:hover{
     transition: all 5s linear;
     
 } 
-}
-a{
-    color: black;
-}
-main p{
-    padding: 5px;
-    border: #FF7640	 2px dashed;
-    text-align: center;
-    box-shadow: 10px 5px 5px;
-}
 
+main p{
+    margin:1px;
+    padding: 5px;
+    text-align: left;
+}
 
 
 
